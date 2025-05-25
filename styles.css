@@ -215,7 +215,7 @@ main.contact::before {
     height: 271.5px;
     z-index: 1;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 15%;
   }
 
   .indianapolis-map iframe {
