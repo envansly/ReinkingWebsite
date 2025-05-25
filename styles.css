@@ -255,11 +255,6 @@ main.contact::before {
 
 /* CONTACT PAGE */
 
-main.contact {
-  /* display: flex; */
-  /* justify-content: center; */
-}
-
 .contact-container {
   display: flex;
   flex-wrap: wrap;
